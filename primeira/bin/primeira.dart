@@ -1,7 +1,12 @@
+import 'dart:ffi';
+
 import 'package:primeira/primeira.dart' as primeira;
 
 void main() {
-  print('Eu adoro pudim');
+
+  int age = 26;
+
+  print('Age: $age!');
 }
 
 
